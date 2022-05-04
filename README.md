@@ -1,6 +1,3 @@
-# babylon-projects
-Web-based AR/VR Application.
-
 <!DOCTYPE html>
 <html>
     <head>
